@@ -3,18 +3,18 @@
 ## Mida ma tegin
 - Uurisin sales tabelit SQL päringutega
 - Leidsin:
-- 1) Tabelis on 15234 rida, millest 5116 on duplikaadid.
-- 2) Tabelis on 1487 tellimusel kliendi ID puudu.
-- 3) Tabelis on suurim müügisumma 2170,40. Väikseim müük oli -1405,32.
-- 4) Tabelis on 305 tellimust, mille summa on 0 või negatiivne.
+- 1. Tabelis on 15234 rida, millest 5116 on duplikaadid.
+- 2. Tabelis on 1487 tellimusel kliendi ID puudu.
+- 3. Tabelis on suurim müügisumma 2170,40. Väikseim müük oli -1405,32.
+- 4. Tabelis on 305 tellimust, mille summa on 0 või negatiivne.
 
 - Osalesin meeskonna andmemaastiku koostamisel, kus uurisin tooteandmete tabelit.
 - Leidsin:
-- Tooteridu on 362.
-- Tootekategooriad: naiste_riided, meeste_riided, laste_riided, aksessuaarid, jalanõusid.
-- Kõige kallimad tooted on jalanõud ja kõige odavamad aksessuaarid.
-- Hindade ja kategooriate osas pole puuduvaid andmeid. Puuduvad andmed on eco sertifikaatide osas (18 juhul).
-- Üllatav oli see, et eco sertifikaadita tooteid oli poole rohkem, kui sertifitseeritud tooteid (242 vs 102 + 18 puuduvat väärtust). Eco sertifikaadiga tooteid oli 28,2%.
+- 1. Tooteridu on 362.
+- 2. Tootekategooriad: naiste_riided, meeste_riided, laste_riided, aksessuaarid, jalanõusid.
+- 3. Kõige kallimad tooted on jalanõud ja kõige odavamad aksessuaarid.
+- 4. Hindade ja kategooriate osas pole puuduvaid andmeid. Puuduvad andmed on eco sertifikaatide osas (18 juhul).
+- 5. Üllatav oli see, et eco sertifikaadita tooteid oli poole rohkem, kui sertifitseeritud tooteid (242 vs 102 + 18 puuduvat väärtust). Eco sertifikaadiga tooteid oli 28,2%.
 
 
 ## Peamised õpid
