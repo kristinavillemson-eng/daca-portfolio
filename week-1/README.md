@@ -3,7 +3,7 @@
 ## Mida ma tegin
 - Uurisin sales tabelit SQL päringutega
 - Leidsin:
-- 
+ 
  1. Tabelis on 15234 rida, millest 5116 on duplikaadid.
  2. Tabelis on 1487 tellimusel kliendi ID puudu.
  3. Tabelis on suurim müügisumma 2170,40. Väikseim müük oli -1405,32.
@@ -11,7 +11,7 @@
 
 - Osalesin meeskonna andmemaastiku koostamisel, kus uurisin tooteandmete tabelit.
 - Leidsin:
-- 
+ 
  1. Tooteridu on 362.
  2. Tootekategooriad: naiste_riided, meeste_riided, laste_riided, aksessuaarid, jalanõusid.
  3. Kõige kallimad tooted on jalanõud ja kõige odavamad aksessuaarid.
